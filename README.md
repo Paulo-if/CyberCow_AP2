@@ -1,6 +1,8 @@
-# 🐮CyberCow 
+<div align="center">
+  <img src="https://github.com/Paulo-if/CyberCow_AP2/blob/main/logo_v1_horizontal.png" width="400" height="150">
+</div>
 
-### CyberCow is the final project of the AP course (Algorithms and programming). In which, it is aimed at managing batches of beef cattle on large and small farms. The creation of this project was entirely done in c language. 
+## 🐮CyberCow is the final project of the AP course (Algorithms and programming). In which, it is aimed at managing batches of beef cattle on large and small farms. The creation of this project was entirely done in c language. 
 
 ### 📘Bibliotecas usadas:
 - [Cadastro de Ração](https://github.com/Paulo-if/CyberCow_AP2/blob/main/Bibliotecas/cadastroRacao.h) | [Cadastro de Lotes](https://github.com/Paulo-if/CyberCow_AP2/blob/main/Bibliotecas/cadastrodelotes.h)
